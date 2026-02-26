@@ -1,5 +1,5 @@
-const UserModel=require("../models/userModel")
-const ProfileModel=require("../models/profileModel");
+// const UserModel=require("../models/userModel")
+// const ProfileModel=require("../models/profileModel");
 const userModel = require("../models/userModel");
 const profileModel = require("../models/profileModel");
 
